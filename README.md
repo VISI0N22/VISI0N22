@@ -4,7 +4,7 @@ I am VISI0N22.
 
 I am trying to learn to code.
 
-🔭 I am currently working on making the most advanced microsoft rewards bot called ReFre
+🔭 I am currently working on making the most advanced microsoft rewards bot called ReFree
 
 😄 Pronouns: he/him
 
