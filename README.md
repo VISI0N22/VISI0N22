@@ -18,7 +18,6 @@
 
 - 🎯 Currently building **ReFree Pro** — the most advanced Microsoft Rewards automation bot
 - 🌱 Learning to code one project at a time
-- 🎮 Gaming enthusiast (Geometry Dash fan!)
 - 😄 Pronouns: **he/him**
 
 ---
