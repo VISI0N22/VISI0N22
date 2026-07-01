@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/VISI0N22/VISI0N22/main/space-banner.png" width="100%" alt="VISI0N22 Banner" />
-</p>
-
 <h1 align="center">👋 Hey, I'm <span style="color:#8A2BE2">VISI0N22</span></h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Learning+to+code+%F0%9F%93%9A;Building+projects;Open+to+collaboration" alt="typing" />
@@ -66,31 +62,15 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VISI0N22&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VISI0N22&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="Top languages" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://github.com/VISI0N22">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://discord.gg/5TUQKqFWd">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VISI0N22&color=8A2BE2&style=flat-square" alt="Profile Views" />
-</p>
 
 <p align="center">
   <i>✨ "Search smarter, not harder" ✨</i>
