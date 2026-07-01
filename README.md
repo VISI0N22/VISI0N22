@@ -2,7 +2,7 @@
   &lt;img src="https://raw.githubusercontent.com/VISI0N22/VISI0N22/main/space-banner.png" width="100%" alt="VISI0N22 Banner" /&gt;
 &lt;/p&gt;
 
-&lt;h1 align="center"&gt;👋 Hey, I'm &lt;span style="color:#8A2BE2"&gt;VISI0N22&lt;/span&gt;&lt;/h1&gt;
+&lt;h1 align="center"&gt;👋 Hey, I'm VISI0N22&lt;/h1&gt;
 &lt;p align="center"&gt;
   &lt;img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Learning+to+code+%F0%9F%93%9A;Building+browser+extensions+%F0%9F%A7%A9;Exploring+Rust+%F0%9F%A6%80;Creating+automation+tools+%F0%9F%9A%80" alt="Typing SVG" /&gt;
 &lt;/p&gt;
@@ -20,7 +20,6 @@
 
 ## 🧑‍💻 About Me
 
-- 🎯 Currently building **ReFree Pro** — the most advanced Microsoft Rewards automation bot
 - 🌱 Learning to code one project at a time
 - 🎮 Gaming enthusiast (Geometry Dash fan!)
 - 😄 Pronouns: **he/him**
@@ -44,12 +43,12 @@
 
 ---
 
-### 🌊 Infinite GD Wave
+### 🌊 [Infinite GD Wave](https://github.com/VISI0N22/Infinite-GD-Wave)
 &gt; An infinite version of the Geometry Dash wave — endless challenge mode.
 
 ---
 
-### 🦀 claw-code *(Forked)*
+### 🦀 [claw-code](https://github.com/VISI0N22/claw-code)
 &gt; Contributing to one of the fastest-growing Rust projects on GitHub.
 
 ---
